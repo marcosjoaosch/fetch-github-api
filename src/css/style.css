@@ -153,6 +153,12 @@ main {
   display: none;
 }
 
+.repositories-details{
+  display: flex;
+  justify-content: center;
+  width: 250px
+}
+
 @media (max-width: 1280px) {
   .container {
     flex-direction: column;
