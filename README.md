@@ -7,3 +7,5 @@ A ideia principal do projeto diferente dos outros que realizei até agora no Dev
 Este desafio foi muito importante para mim, pois tive que além de compreender e estudar a fundo a parte da chamada da API, tive que aprender a documentação de uma API, para conseguir realizar tudo que foi solicitado na Quest. Também aprendi como é importante realizarmos testes durante o desenvolvimento de um projeto, principalmente por que quando nos deparamos com um erro não ficamos tão perdidos.
 
 ## Resultado final do Projeto:
+
+![](https://github.com/marcosjoaosch/fetch-github-api/blob/main/fetch.gif)
